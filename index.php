@@ -1,5 +1,5 @@
 <?php
 
-echo 'Welcome to GeoKazi';
+echo 'Welcome to Github';
 
 ?>
